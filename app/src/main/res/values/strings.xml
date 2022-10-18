@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game 171111118_LuqmanAlHakim</string>
+    <string name="hero">Pilih Hero kamu: </string>
+    <string name="kelas">Pilih Kelas kamu: </string>
+    <string name="item">Pilih Item kamu: </string>
+</resources>
