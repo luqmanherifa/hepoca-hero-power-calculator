@@ -1,1 +1,1 @@
-# Hero Power Calculator
+# Hepoca: Hero Power Calculator
