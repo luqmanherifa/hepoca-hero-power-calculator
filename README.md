@@ -1,1 +1,1 @@
-# hero-calculator-kalkulator-kekuatan-hero
+# Hero Calculator - Kalkulator Kekuatan Hero
